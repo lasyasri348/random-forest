@@ -1,1 +1,1 @@
-# random-forest
+# RandomForest
